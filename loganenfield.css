@@ -15,7 +15,7 @@
 
 }
 
-.Lb_cnt {
+.Lb_cntEN {
   width:100%;
   height:auto;
   display:flex;
@@ -54,7 +54,7 @@
 }
 
 
-.Lb_cnttEN{
+.Lb_cnttEN {
   width:80%;
   padding-top:25px;
   font-family: sans-serif;

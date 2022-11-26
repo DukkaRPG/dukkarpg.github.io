@@ -15,7 +15,7 @@
 
 }
 
-.Lb_cntEN{
+.Lb_cntEN {
   width:100%;
   height:auto;
   display:flex;
@@ -29,7 +29,7 @@
   color: var(--Ic_TLoALOG);
 }
 
-.Lb_qteEN{
+.Lb_qteEN {
   width:90%;
   padding:3px 0;
   margin:4px;
@@ -43,7 +43,7 @@
   border-bottom: 1px solid var(--accentLbLOG);
 }
 
-#Lb_AbLOG .Lb_ThEN{
+#Lb_AbEN .Lb_ThEN {
  font-family: 'Lora', serif;
  font-family: 'Staatliches', cursive;
  line-height:40px;

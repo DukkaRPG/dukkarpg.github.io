@@ -1,7 +1,7 @@
 /*   Tb #35 - The Library of Agony - CiaranSouls Codes 2022. Son libres de revisar el code, sin embargo si usan algo por favor poner créditos c:  */
 
 
-#Lb_AbENF {
+#Lb_AbEN {
     width: 400px;
     height: auto;
     padding: 50px;
@@ -15,7 +15,7 @@
 
 }
 
-.Lb_cntEN {
+.Lb_cntENF {
   width:100%;
   height:auto;
   display:flex;
@@ -23,7 +23,7 @@
   align-items:center;
 }
 
- #Lb_AbEN .Lb_cntEN i{
+ #Lb_AbEN .Lb_cntENF i{
   padding: 4px 0 20px;
   font-size: 45px;
   color: var(--Ic_TLoALOG);

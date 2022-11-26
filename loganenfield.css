@@ -1,7 +1,7 @@
 /*   Tb #35 - The Library of Agony - CiaranSouls Codes 2022. Son libres de revisar el code, sin embargo si usan algo por favor poner créditos c:  */
 
 
-#Lb_Ab{
+#Lb_AbLOG{
     width: 400px;
     height: auto;
     padding: 50px;
@@ -15,7 +15,7 @@
 
 }
 
-.Lb_cnt{
+.Lb_cntLOG{
   width:100%;
   height:auto;
   display:flex;
@@ -23,13 +23,13 @@
   align-items:center;
 }
 
- #Lb_Ab .Lb_cnt i{
+ #Lb_AbLOG .Lb_cntLOG i{
   padding: 4px 0 20px;
   font-size: 45px;
   color: var(--Ic_TLoALOG);
 }
 
-.Lb_qte{
+.Lb_qteLOG{
   width:90%;
   padding:3px 0;
   margin:4px;
@@ -43,7 +43,7 @@
   border-bottom: 1px solid var(--accentLbLOG);
 }
 
-#Lb_Ab .Lb_Th{
+#Lb_AbLOG .Lb_ThLOG{
  font-family: 'Lora', serif;
  font-family: 'Staatliches', cursive;
  line-height:40px;
@@ -54,7 +54,7 @@
 }
 
 
-.Lb_cntt{
+.Lb_cnttLOG{
   width:80%;
   padding-top:25px;
   font-family: sans-serif;
@@ -63,9 +63,9 @@
   color:var(--Tx_Lb);
 }
 
-.Lb_cntt i{color:var(--cursiveLbLOG);}
+.Lb_cnttLOG i{color:var(--cursiveLbLOG);}
 
-.Lb_cnt_T {
+.Lb_cnt_TLOG {
 width:13px;
  font-family: 'Lora', serif;
  font-family: 'Staatliches', cursive;
@@ -77,7 +77,7 @@ width:13px;
 }
 
 
-#Lb_Ab .C{
+#Lb_AbLOG .C{
  position:absolute; 
   bottom:-28px; 
   right:0px;

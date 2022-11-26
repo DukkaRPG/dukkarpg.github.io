@@ -11,7 +11,7 @@
     flex-direction: column;
     align-items: center;
     background: var(--bckLbLOG);
-    border-bottom: 10px solid var(--accentLb);
+    border-bottom: 10px solid var(--accentLbLOG);
 
 }
 
